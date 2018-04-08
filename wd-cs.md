@@ -5,9 +5,9 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 ## Tier 1 - get started
 
-* [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+* [x] Book: [You Don't Know JS: Up & Going](htt ps://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 * [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
-* [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+* [x] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [ ] Project: Portfolio from the frontend section of FCC
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
@@ -25,7 +25,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
 ## Tier 2 - strengthen your foundation
-
+ 
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
